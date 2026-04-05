@@ -2,4 +2,5 @@
 .idea/
 
 */ckpt-completion/*
+*/ckpt-full/*
 */instruction-tuning dataset/*
